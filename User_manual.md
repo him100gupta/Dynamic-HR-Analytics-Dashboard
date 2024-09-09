@@ -8,7 +8,7 @@ The dashboard consists of three main sections:
 You can easily navigate through these sections by clicking on the icons at the top of the dashboard while holding the Ctrl key.
 
 ### Interactivity:
-+ Filters: Interactive slicer is available to filter data by department, which dynamically update the visualizations.
++ Filters: Interactive slicer is available to filter data by department(Human Resource, Research & Development and Sales), which dynamically update the visualizations.
 + Hover Tooltips: Hovering over the charts displays additional information for a detailed breakdown.
 
 ### Visual Insights:
