@@ -78,3 +78,4 @@ CALCULATE( COUNT(HR_Analytics[EmpID]),VALUES(HR_Analytics[JobSatisfaction]) )
 ConditionalColoring = 
 IF( SELECTEDVALUE(HR_Analytics[JobSatisfaction]) IN {1, 2} && [CountEmployeesByRating] > 20,  "#FF0000", "#FFFFFF" )
 ```
+![image](https://github.com/user-attachments/assets/92781467-4694-4888-8b70-a71bbeee0e3f)
