@@ -29,7 +29,7 @@ Charts & Visualizations:
 + Job rating by ex-employees (Matrix)
 + Attrition by job role (Waterfall Chart)
 
-![image](https://github.com/user-attachments/assets/a535c51b-d375-4046-bd6f-576575e23be9)
+![image](https://github.com/user-attachments/assets/788c5123-9865-461f-8047-68ba39a9e4f0)
 
 ### 2. Compensation and Benefits:
 This section helps HR gain insights into salary structure, overtime, and salary hikes.
